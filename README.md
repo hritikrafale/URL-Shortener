@@ -23,3 +23,4 @@ Great tool for shortening a long URL.
 * mongoose
 
 ## Screenshot
+![Screenshot (1)](https://user-images.githubusercontent.com/62428342/103528805-9966f380-4eaa-11eb-8f89-7fd230e01324.png)
