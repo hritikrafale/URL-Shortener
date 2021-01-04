@@ -2,6 +2,9 @@
 
 A URL-Shortener created using Node-JS and synced with Mongo Database.
 
+## Demo
+![url](https://user-images.githubusercontent.com/62428342/103532261-eb127c80-4eb0-11eb-8bb3-afda1d433dae.gif)
+
 ## Why use it?
 
 Great tool for shortening a long URL.
