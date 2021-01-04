@@ -30,7 +30,7 @@ router.post("/shortUrls", async (req, res) => {
 router.get("/:short", async (req, res) => {
     const { short } = req.params;
     const url = await ShortUrl.findOne({ short: short });
-    if(url ! null)
+    if(url != null)
         res.redirect(url.full);
 });
 
